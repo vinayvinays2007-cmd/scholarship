@@ -1,0 +1,44 @@
+Student Name,college,semester,score,income,Extracurricular,Status,,
+vinay,sjp,4,85.6,20000,1,Eligible,,
+sharan,gttc,1,45,7500,0,not Eligible,,
+sridhar,bgs,4,99,25000,1,Eligible,,
+nagesh,sjp,5,48,50000,0,not Eligible,,
+varun,bgs,4,85.6,65000,1,Eligible,,
+dharshan,sjp,6,54,34000,0,not Eligible,,
+srinivas,gttc,4,85.6,52000,1,Eligible,,
+nayana,bit,8,64,34500,0,not Eligible,,
+jeevan,sjp,3,89.6,43000,1,Eligible,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+vinay,sjp,1,75.0,20000.0,1,Eligible
+vinay,sjp,1,44.0,20000.0,1,not Eligible
+vinay,sjp,2,44.0,20000.0,1,not Eligible
+sharan,sjp,2,45.0,100.0,1,not Eligible
+sharan,sjp,2,85.0,100.0,1,Eligible
+sharan,sjp,2,85.0,100.0,1,Eligible
+vinay,sjp,1,75.0,20000.0,1,Eligible
+vinay,sjp,1,45.78,10000.0,1,not Eligible
+vinay,sjp,1,95.78,10000.0,1,Eligible
+shankar,gttc,2,75.0,10000.0,1,Eligible
+shankar,gttc,2,65.0,10000.0,1,not Eligible
+shankar,gttc,2,70.0,10000.0,1,Eligible
+shankar,gttc,2,69.0,10000.0,1,not Eligible
+shankar,gttc,2,69.99,10000.0,1,Eligible
+shankar,gttc,2,69.45,10000.0,1,not Eligible
+shankar,gttc,2,69.55,10000.0,1,not Eligible
+shankar,gttc,2,69.55,10000.0,1,not Eligible
+shankar,gttc,2,69.55,10000.0,1,not Eligible
+shankar,gttc,2,69.6,10000.0,1,not Eligible
+vinay,gttc,3,75.0,100000.0,1,Eligible
